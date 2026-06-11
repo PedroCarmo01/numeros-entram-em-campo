@@ -47,6 +47,7 @@ A partir desse índice, as seleções foram classificadas de acordo com seu dese
 ## Autor
 
 Pedro Henrique Silva do Carmo
+
 LinkedIn: (www.linkedin.com/in/pedroo-carmo)
 
 Projeto desenvolvido para fins de estudo e aprimoramento em Análise de Dados e Business Intelligence.
